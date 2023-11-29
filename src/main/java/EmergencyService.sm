@@ -1,0 +1,14 @@
+%start EmergencyServiceFSM::Reported
+%class EmergencyService
+
+%map EmergencyServiceFSM
+%%
+Reported
+{
+}
+
+Final
+{
+}
+
+%%
